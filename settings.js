@@ -27,7 +27,7 @@ global.owner = ['+380944814219'] //Owner number in aive msg
 global.premium = ['+380944814219'] //Owner Number info
 global.ownernomer = '+380944814219' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+global.ownername = '🖤INDUMINA🖤' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
@@ -35,7 +35,7 @@ global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's 
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = '' //Bot Pacage Name
 global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
