@@ -23,20 +23,20 @@ global.APIKeys = {
 global.alivemsg = `My name is XOFIY X🖤
 My Creator is Indumna Hansika` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['94701505642'] //Owner number in aive msg
-global.premium = ['94757558130'] //Owner Number info
-global.ownernomer = '94703349670' //Owner Number <<<
+global.owner = ['94779758024'] //Owner number in aive msg
+global.premium = ['94779758024'] //Owner Number info
+global.ownernomer = '94779758024' //Owner Number <<<
 
-global.ownername = '🖤INDUMINA🖤' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = '🖤RASADU SULAKSHA🖤' //Owner Name
+global.botname = ' LION KING BoT //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
 global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '' //Bot Pacage Name
-global.author = '©Indumina' //Author Name
+global.packname = '' //Rasadu 
+global.author = '©LION KING SL' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
